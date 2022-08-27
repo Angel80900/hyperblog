@@ -7,7 +7,7 @@ de git y github
 > - No sé que más escribir
 > - Bueno
 > - Nuevo texto
-> - Otro texto más
-
+> - Otro texto más  
+> - Mas texto 
 [![Komi](https://i.imgur.com/87oNisY.jpg "Komi")](https://i.imgur.com/87oNisY.jpg "Komi")
 * Imagen de Komi ya que soy fan de ella💚
